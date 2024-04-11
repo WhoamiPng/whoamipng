@@ -2,14 +2,14 @@
 
 Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apaixonado pelo desenvolvimento web. Atualmente, estou cursando Engenharia de Software na Universidade Estácio de Sá. Com mais de três anos de imersão na área, tive a oportunidade de participar de diversos projetos e adquirir conhecimento em diversas tecnologias.
 
-## **Características:**
+## 🚀 **Características:**
 
 - Idade: 18 anos
 - Moro em Guarulhos - São Paulo
 - Técnico em informática para internet pelo programa NovoTec
 - Cursando Engenharia de Software na Universidade Estácio de Sá
 
-## **Experiência**
+## 🤫 **Experiência**
 
 Não possuo experiência no mercado de trabalho, enquanto não consigo minha desejada vaga, estou estudando com foco, para atingir meus objetivos no universo tech.
 
