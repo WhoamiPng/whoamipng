@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apaixonado pelo desenvolvimento web. Atualmente, estou cursando Engenharia de Software na Universidade Estácio de Sá. Com mais de três anos de imersão na área, tive a oportunidade de participar de diversos projetos e adquirir conhecimento em diversas tecnologias.
 
-> “O conhecimento é o caminho para a liberdade.”
+> “A prática leva à perfeição”
 
 ## 🤫 **Características:**
 
