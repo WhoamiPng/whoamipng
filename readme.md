@@ -13,7 +13,7 @@ Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apa
 
 ## 🚀 **Experiência**
 
-Não possuo experiência no mercado de trabalho, enquanto não consigo minha desejada vaga, estou estudando com foco, para atingir meus objetivos no universo tech.
+Não possuo experiência no mercado de trabalho, enquanto não consigo minha desejada vaga, estou estudando com foco, para atingir meus objetivos e metas no universo tech.
 
 ## 💻 **Habilidades Técnicas**
 
