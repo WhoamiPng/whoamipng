@@ -6,7 +6,7 @@ Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apa
 
 ## 🤫 **Características:**
 
-- Idade: 18 anos
+- Idade: 19 anos
 - Guarulhos - São Paulo
 
 ## 🎓 **Formações acadêmicas:**
