@@ -16,7 +16,7 @@ Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apa
 
 ## 🚀 **Experiência**
 
-Auxiliar de Logística I - Shopee Xpress (6 Meses)
+Auxiliar de Logística I - Shopee Xpress (10Meses)
 
 ## 💻 **Habilidades Técnicas**
 
