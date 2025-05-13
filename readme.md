@@ -1,6 +1,6 @@
 # 👋 **Olá**
 
-Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apaixonado pelo desenvolvimento web. Atualmente, estou cursando Engenharia de Software na Universidade Estácio de Sá. Com mais de três anos de imersão na área, tive a oportunidade de participar de diversos projetos e adquirir conhecimento em diversas tecnologias.
+Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apaixonado pelo desenvolvimento web. Atualmente, estou cursando Engenharia de Software na Universidade Estácio de Sá. Com mais de quatro anos de imersão na área, tive a oportunidade de participar de diversos projetos e adquirir conhecimento em diversas tecnologias.
 
 > “A prática leva à perfeição”
 
@@ -51,5 +51,4 @@ Essas habilidades prévias foram adquiridas durante o meu curso técnico, cursos
 
 ## 🌐 **Redes Sociais:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-briahn-58b475224/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511930128681&text&type=phone_number&app_absent=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-briahn-58b475224/)
