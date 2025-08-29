@@ -18,7 +18,7 @@ Meu nome é Lucas Briahn e sou um entusiasta do desenvolvimento de software, apa
 
 **Professor de Ensino Técnico em Desenvolvimento de Sistemas**  
 Secretaria da Educação do Estado de São Paulo – SEDUC-SP  
-*03/2025 - 07/2025*
+*03/2025 - 08/2025*
 
 ## 💻 **Habilidades Técnicas**
 
