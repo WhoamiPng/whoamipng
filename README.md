@@ -1,40 +1,53 @@
 ## 👋 Olá, meu nome é Lucas Briahn!
 
-Um entusiasta do desenvolvimento de software com a missão de construir soluções que sejam não apenas eficientes, mas também intuitivas. Com mais de 3 anos de experiência, já naveguei por diversos projetos que me permitiram aprimorar minhas habilidades e entender o que realmente move a web.
+Desenvolvedor backend focado em **Go** e práticas **DevOps/SRE**. Construo sistemas confiáveis, escaláveis e bem estruturados.
 
-> “A prática leva à perfeição”
+> "A prática leva à perfeição"
 
 ---
 
 ## 🚀 Minha Trajetória
 
-Minha trajetória profissional combina a busca por conhecimento teórico e a aplicação prática. Atualmente, aprofundo meus estudos em **Engenharia de Software** na Universidade Estácio de Sá, onde me dedico a entender fundamentos de arquitetura de software, engenharia de requisitos e bancos de dados.
+Minha jornada profissional une formação acadêmica sólida e experiência prática. Atualmente no **5º semestre de Engenharia de Software** na Universidade Estácio de Sá, com foco em arquitetura de sistemas, bancos de dados e engenharia de requisitos.
 
-Além da formação acadêmica, minha experiência como **Professor de Desenvolvimento de Sistemas** na Secretaria da Educação do Estado de São Paulo, entre **março de 2025** e **agosto de 2025**, foi fundamental para reforçar não apenas meu domínio técnico, mas também minhas habilidades de comunicação, organização e liderança. Foi uma experiência gratificante lecionar sobre lógica de programação, modelagem de banco de dados e desenvolvimento de software para alunos do ensino médio.
+A experiência como **Professor de Desenvolvimento de Sistemas** na Secretaria da Educação do Estado de São Paulo (março-agosto 2025) fortaleceu habilidades essenciais como comunicação técnica, documentação clara e trabalho colaborativo — competências que aplico diariamente no desenvolvimento de soluções backend e infraestrutura.
 
 ---
 
-## 💻 Minha Stack
+## 💻 Tech Stack
 
-<p align=center>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vue,nuxtjs,adonis,tailwind,prisma,postgresql,mongodb,redis,docker,cloudflare,aws,vite,vitest,elysia,bun&perline=22" />
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,linux,bash,git,github,postgresql,mongodb,redis,aws,terraform,prometheus,grafana&perline=14" />
   </a>
 </p>
 
+**Backend:** Go • REST APIs • gRPC • Microservices  
+**DevOps:** Docker • Kubernetes • CI/CD • GitHub Actions  
+**Infrastructure:** Linux • Bash • Terraform • Ansible  
+**Databases:** PostgreSQL • MongoDB • Redis  
+**Cloud:** AWS (ECS, Lambda, RDS, S3)  
+**Observability:** Prometheus • Grafana  
+
 ---
 
-## 📈 Estatísticas
+## 🎓 Formação
+
+**Engenharia de Software** (5º semestre) — Universidade Estácio de Sá  
+**Professor de Desenvolvimento de Sistemas** — Secretaria da Educação do Estado de São Paulo (2025)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/WhoamiPng">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WhoamiPng&show_icons=true&theme=dracula"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WhoamiPng&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiPng&layout=compact&theme=dracula&hide=html,css,javascript"/>
 </p>
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whoamii.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-briahn-58b475224/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whoamii.png)
