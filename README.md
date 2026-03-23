@@ -33,8 +33,7 @@ A experiência como **Professor de Desenvolvimento de Sistemas** na Secretaria d
 
 ## 🎓 Formação
 
-**Engenharia de Software** (5º semestre) — Universidade Estácio de Sá  
-**Professor de Desenvolvimento de Sistemas** — Secretaria da Educação do Estado de São Paulo (2025)
+**Engenharia de Software** (5º semestre) — Universidade Estácio de Sá
 
 ---
 
@@ -50,4 +49,4 @@ A experiência como **Professor de Desenvolvimento de Sistemas** na Secretaria d
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-briahn-58b475224/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whoamii.png)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whoamii.png)~
